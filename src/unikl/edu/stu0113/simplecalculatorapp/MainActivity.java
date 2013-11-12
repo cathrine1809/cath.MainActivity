@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity implements OnClickListener {
 
+//test_changes
 	EditText text1;
 	EditText text2;
 	Spinner spinner;
